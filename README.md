@@ -32,14 +32,6 @@
    > release分支作为上线分支，应避免单个功能分支的多次合并，凡是合并到release分支的功能分支，有bug需从release分支切出分支修改，再合并到release上。有利于多人协作commit提交干净的历史记录
 
 
-**销班平台变更之前**
-
-![305264766face921002b08275ac396d3.jpeg](evernotecid://A7C0564F-2F34-4804-B343-43BA95B5664D/appyinxiangcom/18111462/ENResource/p52)@w=800
-
-**变更之后**
-![5a004be0458141f8e4271475d168e3ff.jpeg](evernotecid://A7C0564F-2F34-4804-B343-43BA95B5664D/appyinxiangcom/18111462/ENResource/p53)@w=800
-
-
 * dev 用于功能开发，开发人员将自己开发功能分支合并到dev分支，用于dev环境的部署，功能测试
   _好处：_
   > 新建dev环境，有利于开发人员，测试多个功能分支
