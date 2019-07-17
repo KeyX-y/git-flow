@@ -2,7 +2,7 @@
 
 
 ## 之前工作流
-![e3eadf1a1313792088380cab1853ca8c.jpeg](evernotecid://A7C0564F-2F34-4804-B343-43BA95B5664D/appyinxiangcom/18111462/ENResource/p35)@w=1000
+![image](https://github.com/KeyX-y/git-flow/blob/master/images/d.jpeg)
 
 
 
@@ -15,8 +15,7 @@
 
 
 ## 当前流程
-
-![80388c3e530ae84dfc067e332bcbdb8b.jpeg](evernotecid://A7C0564F-2F34-4804-B343-43BA95B5664D/appyinxiangcom/18111462/ENResource/p30)@w=800
+![image](https://github.com/KeyX-y/git-flow/blob/master/images/a.jpeg)
 
 
 
@@ -43,7 +42,8 @@
 ## git flow
 
 
-![7e8ae9816f59a548013b38fdb4566cb5.jpeg](evernotecid://A7C0564F-2F34-4804-B343-43BA95B5664D/appyinxiangcom/18111462/ENResource/p3)@w=800
+![image](https://github.com/KeyX-y/git-flow/blob/master/images/b.jpeg)
+
 
 
 a. 创建feature分支
@@ -119,10 +119,6 @@ h. **由相关人员合并release分支到master,并打tag(tag号根据产品版
 3. 分支合并，使用rebase 和 merge 结合；
 4. commit编写详细，以便有问题版本会退；
 
-
-## GitFlow工作流常用操作流程
-
-![a2f402def4d239cb73039d63ea2b0c01.png](evernotecid://A7C0564F-2F34-4804-B343-43BA95B5664D/appyinxiangcom/18111462/ENResource/p54)@w=500
 
 
 
